@@ -1,5 +1,5 @@
 # Meal App
-Meal app:  https://sebastianhornoi.github.io/Meal-App/
+Meal app:   https://sebastianhornoi.github.io/Javascript-Meal-App/
 ### Obiettivo proggetto: 
 Realizzare una meal app che mostri una ricetta random al loading della pagina con descrizione annessa, uno slider con le categorie dei pasti, un menu con i piatti in base
 alla nazionalità ed una ricerca per piatto singolo.
